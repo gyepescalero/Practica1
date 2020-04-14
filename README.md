@@ -8,5 +8,5 @@ La actividad ha sido realizada de manera colectiva por **Pablo Mas Cayuelas** y 
 * **PDF/Web-Scraping-quintetos-NBA.pdf** contiene una descripción desarrollada de la práctica y la respuesta a las preguntas formuladas.
 * **CSV/NBA_MVP_Data.csv** contiene el archivo "csv" con los datos de salida del código.
 ## Enlaces utilizados
-* https://basketball.realgm.com/nba/stats/2019/Averages/Qualified/points/All/desc/1/Regular_Season, consultado el 08/04/2020
-* https://es.wikipedia.org/wiki/Anexo:Votaci%C3%B3n_del_MVP_de_la_NBA_2018-19, consultado el 10/04/2020
+* https://basketball.realgm.com/nba/stats/2019/Averages/Qualified/points/All/desc/1/Regular_Season, consultado el 08/04/2020.
+* https://es.wikipedia.org/wiki/Anexo:Votaci%C3%B3n_del_MVP_de_la_NBA_2018-19, consultado el 10/04/2020.
